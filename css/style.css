@@ -178,33 +178,10 @@ a:link,  a:visited, a:hover, a:active {
 
     .card p {        
         margin-top: 3%;
-        -webkit-animation: FadeIn 0.2s linear;
-                animation: FadeIn 0.2s linear;        
+              
     }
     
-    @-webkit-keyframes FadeIn {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
-
-
-    }
-    
-    @keyframes FadeIn {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
-
-
-    }
+   
 
     /* start toggle classes for js functionality */
 
@@ -401,33 +378,10 @@ a:link,  a:visited, a:hover, a:active {
 
     .card p {
         margin-bottom: 5%;
-        -webkit-animation: FadeIn 0.2s linear;
-                animation: FadeIn 0.2s linear;
+        
     }
 
-    @-webkit-keyframes FadeIn {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
-
-
-    }
-
-    @keyframes FadeIn {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
-
-
-    }
+    
 
     .card-bottom {        
         margin-bottom: 10%;
